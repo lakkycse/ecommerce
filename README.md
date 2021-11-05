@@ -2,8 +2,8 @@
 
 # Getting started
 ### Requirements
+Demo : http://ecommerce-lakkycse.vercel.app/
 
-* Node.js
 * NPM
 
 ### Package installation
